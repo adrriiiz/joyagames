@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JoyaGames</title>
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  
+<div class="lock-screen" id="lock-screen" hidden>
+  <div class="lock-card">
+    <p class="lock-card__eyebrow">// acceso privado</p>
+    <h2 class="lock-card__title">Escribe la contraseña</h2>
+    <form id="lock-form">
+      <input type="password" id="lock-input" placeholder="Contraseña" autocomplete="off">
+      <button type="submit">Entrar</button>
+    </form>
+    <p class="lock-card__error" id="lock-error" hidden>Contraseña incorrecta.</p>
+  </div>
+</div>  
+
+<div class="noise"></div>
+
+<header class="topbar">
+  <div class="wrap topbar__inner">
+    <div class="brand">
+      <span class="brand__glyph">&gt;_</span>
+      <span class="brand__name" id="site-name">JoyaGames</span>
+    </div>
+    <nav class="filters" id="filters" role="tablist" aria-label="Filtrar por tipo">
+      <button class="filter is-active" data-filter="all" role="tab" aria-selected="true">Todo</button>
+      <button class="filter" data-filter="plugin" role="tab" aria-selected="false">Steam</button>
+      <button class="filter" data-filter="config" role="tab" aria-selected="false">Others</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <section class="hero">
+    <div class="wrap hero__inner">
+      <div class="hero__copy">
+        <p class="eyebrow">// juegos analizados profundamente </p>
+        <h1 id="hero-tagline">Plugins y configuraciones,<br>listos para bajar.</h1>
+        <p class="hero__sub">Cada tarjeta de abajo apunta directo a la descarga. Nada de cuentas, nada de esperas raras: entras, buscas y bajas.</p>
+        <div class="hero__stats" id="hero-stats" aria-hidden="true"></div>
+      </div>
+
+      <div class="hero__code" aria-hidden="true">
+        <div class="code-window">
+          <div class="code-window__bar">
+            <span class="dot dot--r"></span><span class="dot dot--y"></span><span class="dot dot--g"></span>
+            <span class="code-window__title">joyagames.space</span>
+          </div>
+          <pre class="code-window__body"><code><span class="c-com">// top juegos más comprados </span>
+<span class="c-key">{</span>
+  <span class="c-attr">top 1</span>: <span class="c-str">"Minecraft"</span>,
+  <span class="c-attr">top 2</span>: <span class="c-str">"Terraria"</span>,
+  <span class="c-attr">top 3</span>: <span class="c-str">"Diablo III"</span>,
+  <span class="c-attr">top 4</span>: <span class="c-str">"Garry's Mod"</span>,
+  <span class="c-attr">top 5</span>: <span class="c-str">"Hollow Knight"</span>            
+<span class="c-key">}</span><span class="cursor">&nbsp;</span></code></pre>
+        </div>
+        <p class="hero__code-caption">Juegos sin virus, totalmente puros.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="catalog">
+    <div class="wrap">
+      <div class="catalog__bar">
+        <label class="search" for="search-input">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5.5" stroke="currentColor" stroke-width="1.5"/><path d="M11.5 11.5L15 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+          <input id="search-input" type="text" placeholder="Buscar por nombre o etiqueta…" autocomplete="off">
+        </label>
+        <span class="catalog__count" id="result-count"></span>
+      </div>
+
+      <div class="grid" id="grid"></div>
+
+      <p class="empty-state" id="empty-state" hidden>No hay nada con ese filtro. Prueba otra búsqueda.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap site-footer__inner">
+    <p id="footer-note">Actualizado a mano desde config.js — sin panel de admin.</p>
+    <p class="site-footer__author" id="footer-author"></p>
+  </div>
+</footer>
+
+<template id="card-template">
+  <article class="card">
+    <div class="card__top">
+      <span class="card__id"></span>
+      <span class="card__type"></span>
+    </div>
+    <h3 class="card__name"></h3>
+    <p class="card__desc"></p>
+    <div class="card__tags"></div>
+    <div class="card__meta">
+      <span class="card__version"></span>
+      <span class="card__updated"></span>
+    </div>
+    <a class="card__cta" target="_blank" rel="noopener noreferrer">
+      <span>Descargar en Mediafire</span>
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M7 1v8m0 0L4 6m3 3l3-3M2 11.5h10" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  </article>
+</template>
+
+<script src="js/config.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

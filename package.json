@@ -1,0 +1,16 @@
+{
+  "name": "plugin-vault",
+  "version": "1.0.0",
+  "description": "Catálogo estático de plugins y configs, editable desde js/config.js",
+  "private": true,
+  "scripts": {
+    "start": "serve . -l 3000",
+    "dev": "serve . -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
