@@ -558,7 +558,7 @@ window.SITE_CONFIG = {
       name: "HOW TO FISH",
       type: "steam",
       version: "1.0.5",
-      description: "Kindergarten  3 es un videojuego independiente de aventura y puzles con humor negro, desarrollado por Con Man Games y lanzado para PC. Este título continúa la serie Kindergarten, famosa por su mezcla única de comedia oscura, narrativa retorcida y jugabilidad centrada en la toma de decisiones y resolución de puzles.",
+      description: "How to Fish es un simulador de pesca basado en físicas para 1-4 jugadores de Dazed Games, lanzado el 20 de agosto de 2026 para PC a través de Steam. La premisa es tan absurda como suena: tú y hasta tres amigos chocan borrachos su barco contra una pequeña isla y deben aprender a pescar para regresar a la civilización.",
       tags: ["accion", "aventura", "indie"],
       downloadUrl: "https://www.mediafire.com/file/upegze6whq2gro1/How-to-Fish-JoyaGAMES.space.rar/file",
 	  image: "images/htf.jpg",
