@@ -475,6 +475,50 @@ window.SITE_CONFIG = {
       downloadUrl: "https://www.mediafire.com/file/nyjlfncu8zbvfhy/Stray-JoyaGAMES.space.rar/file",
 	  image: "images/stray.jpg",
       updated: "2026-08-21"
-    }	  
+    },	  
+	{
+      id: "juego-041",
+      name: "PACIFIC DRIVE",
+      type: "steam",
+      version: "1.15.0",
+      description: "Pacific Drive es un videojuego de supervivencia desarrollado por Ironwood Studios y publicado por Kepler Interactive en 2024. El juego se desarrolla en el noroeste del Pacífico, que el jugador recorre a pie o en una camioneta mientras intenta encontrar una forma de escapar.",
+      tags: ["aventura", "accion", "indie"],
+      downloadUrl: "",
+	  image: "images/pd.jpg",
+      updated: "2026-08-23"
+    },
+	{
+      id: "juego-042",
+      name: "MY GAMING CLUB",
+      type: "steam",
+      version: "2.0",
+      description: "Tienes que sacar adelante tu negocio desde cero; lo único que tienes al principio es un viejo garaje que heredaste de tu difunto tío Ben. Eres el propietario de un club de videojuegos, y cada día acuden a ti visitantes deseosos de jugar a diversos videojuegos.",
+      tags: ["simulador", "indie"],
+      downloadUrl: "",
+	  image: "images/mgc.jpg",
+      updated: "2026-08-23"
+    },
+	{
+      id: "juego-043",
+      name: "HOUSE OF GOLF 2",
+      type: "steam",
+      version: "1.2.5",
+      description: "Embárcate en una aventura de golf inolvidable con House of Golf 2, ¡no solo un juego, sino una invitación a crear recuerdos duraderos con la familia y amigos! Ya seas un profesional experimentado o un recién llegado a los greens virtuales, sumérgete en un mundo lleno de desafíos y emoción.",
+      tags: ["simulador", "indie"],
+      downloadUrl: "",
+	  image: "images/hog2.jpg",
+      updated: "2026-08-23"
+    },
+	{
+      id: "juego-044",
+      name: "SURVIVE THE FALL",
+      type: "steam",
+      version: "-",
+      description: "Este juego de supervivencia en mundo abierto combina exploración táctica, gestión de asentamientos y un enfoque narrativo envolvente en un mundo transformado para siempre por el impacto de un meteorito.",
+      tags: ["accion", "aventura"],
+      downloadUrl: "",
+	  image: "images/stf.jpg",
+      updated: "2026-08-23"
+    },	  
   ]
 };
