@@ -53,7 +53,7 @@ window.SITE_CONFIG = {
       version: "1.72",
       description: "Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de acción y aventura de mundo abierto desarrollado por Rockstar North y publicado por Rockstar Games. Fue lanzado inicialmente el 17 de septiembre de 2013 para PlayStation 3 y Xbox 360. Posteriormente, se publicó el 18 de noviembre de 2014 para PlayStation 4 y Xbox One, incorporando, entre otras mejoras, un modo de juego con perspectiva en primera persona.",
       tags: ["accion", "aventura", "mundo abierto"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ServerConfigPack.zip/file",
+      downloadUrl: "",
 	  image: "images/gtav.jpg",
       updated: "2026-08-19"
     },
@@ -64,7 +64,7 @@ window.SITE_CONFIG = {
       version: "1491.50",
       description: "Red Dead Redemption 2 (abreviado como RDR2 y estilizado como Red Dead Redemption II) es un videojuego de acción-aventura de mundo abierto desarrollado y publicado por Rockstar Games. El juego es la tercera entrada de la serie Red Dead y una precuela del juego Red Dead Redemption de 2010.",
       tags: ["accion", "aventura", "shooters"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ServerConfigPack.zip/file",
+      downloadUrl: "",
 	  image: "images/rdr2.jpg",
       updated: "2026-08-19"
     },
@@ -97,7 +97,7 @@ window.SITE_CONFIG = {
       version: "1.16.2",
       description: "El videojuego se lanzó al mercado a nivel mundial el 25 de febrero de 2022 en las plataformas Xbox One, Xbox Series X/S, Microsoft Windows, PlayStation 4, PlayStation 5.[1][2] La crítica lo elogió por el diseño de su mundo abierto, la jugabilidad y la ambientación, recibiendo algunas críticas por su rendimiento técnico. También, recibió múltiples premios a juego del año, tales como el de los Game Awards de 2022, y alcanzó las 20 millones de unidades vendidas en su primer año.",
       tags: ["accion", "juego de rol"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/elden.jpg",
       updated: "2026-08-19"
     },
@@ -141,7 +141,7 @@ window.SITE_CONFIG = {
       version: "1.6.2",
       description: "EA Sports FC 26 es un videojuego de fútbol desarrollado por EA Vancouver y EA Romania y publicado por Electronic Arts. Su lanzamiento mundial fue el 26 de septiembre de 2025 para Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2 y Amazon Luna.[1] Es la tercera entrega de la serie EA Sports FC tras EA FC 24 y EA FC 25.",
       tags: ["accion", "aventura", "multijugador"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/fc26.jpg",
       updated: "2026-08-20"
     },
@@ -152,7 +152,7 @@ window.SITE_CONFIG = {
       version: "-",
       description: "Mortal Shell 2 llega dispuesto a ser uno de los mejores soulslikes del año. La secuela del juego lanzado en 2020 supone un enorme salto para Cold Symmetry, que ha demostrado saber cómo potenciar sus ideas propias y aplicar la identidad de los juegos de FromSoftware para darnos una aventura con garra que atrapa desde un primer momento.",
       tags: ["accion", "aventura", "horror"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/ms2.jpg",
       updated: "2026-08-20"
     },
@@ -186,7 +186,7 @@ window.SITE_CONFIG = {
       version: "1.1.1",
       description: "The Legend of Zelda: Tears of the Kingdom (ゼルダの伝説 ティアーズ オブ ザ キングダム Zeruda no Densetsu: Tiāzu obu za Kingudamu?, tdl. «La leyenda de Zelda: Lágrimas del reino») es un videojuego de acción-aventura y mundo abierto de 2023 de la serie The Legend of Zelda, desarrollado por la filial Nintendo EPD en colaboración con Monolith Soft y publicado por Nintendo para la consola Nintendo Switch.",
       tags: ["accion", "aventura", "juego de rol"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/totk.jpg",
       updated: "2026-08-20"
     },
@@ -197,7 +197,7 @@ window.SITE_CONFIG = {
       version: "1.5.0",
       description: "The Legend of Zelda: Breath of the Wild (ゼルダの伝説 ブレス オブ ザ ワイルド Zeruda no Densetsu Buresu obu za Wairudo?, tdl. «La leyenda de Zelda: El aliento de la naturaleza») es un videojuego de acción-aventura de 2017 de la serie The Legend of Zelda, desarrollado por la filial Nintendo EPD en colaboración con Monolith Soft y publicado por Nintendo para las consolas Wii U, Nintendo Switch, y Nintendo Switch 2.",
       tags: ["accion", "aventura", "juego de rol"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/botw.jpg",
       updated: "2026-08-20"
     },
@@ -285,7 +285,7 @@ window.SITE_CONFIG = {
       version: "1.0.17912",
       description: "The Quintessential Quintuplets es un manga romántico y de comedia creado por Negi Haruba, publicado entre 2017 y 2020, que sigue la historia sigue a Futaro Uesugi, un estudiante sobresaliente pero económicamente necesitado, que acepta el trabajo de tutor para cinco hermanas quintillizas: Ichika, Nino, Miku, Yotsuba e Itsuki Nakano.",
       tags: ["accion", "aventura", "indie"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/dispatch.jpg",
       updated: "2026-08-20"
     },
@@ -296,7 +296,7 @@ window.SITE_CONFIG = {
       version: "2.810.0.0",
       description: "Marvel's Spider-Man 2 es un videojuego de acción y aventura de mundo abierto desarrollado por Insomniac Games y publicado por Sony Interactive Entertainment. Basado en el personaje de Marvel Comics, Spider-Man y presenta una narrativa inspirada en su extensa mitología de cómics, que también se deriva de diversas adaptaciones en otros medios.",
       tags: ["accion", "aventura"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/sm2.jpg",
       updated: "2026-08-20"
     },
@@ -329,7 +329,7 @@ window.SITE_CONFIG = {
       version: "1.26",
       description: "Rebirth es una nueva versión de The Binding of Isaac, desarrollada por McMillen y Florian Himsl y lanzada en 2011 como una aplicación Adobe Flash. Esta plataforma tenía limitaciones y llevó a McMillen a trabajar con Nicalis para producir Rebirth con un motor de juego más avanzado, lo que a su vez permitió la adición sustancial de contenido y características de juego.",
       tags: ["accion", "aventura", "multijugador"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/dayz.jpg",
       updated: "2026-08-20"
     },
@@ -362,7 +362,7 @@ window.SITE_CONFIG = {
       version: "1.21.130",
       description: "Minecraft Bedrock Edition o simplemente Minecraft Bedrock[1] (anteriormente Minecraft: Pocket Edition y Minecraft: Windows 10 Edition) es una edición del videojuego Minecraft para dispositivos móviles, realidad virtual, consolas de comando y la Microsoft Store de Windows.",
       tags: ["construccion", "aventura", "multijugador"],
-      downloadUrl: "https://www.mediafire.com/file/tu-enlace-aqui/ResourcePackSettings.zip/file",
+      downloadUrl: "",
 	  image: "images/mcw.jpg",
       updated: "2026-08-21"
     },
@@ -518,6 +518,39 @@ window.SITE_CONFIG = {
       tags: ["accion", "aventura"],
       downloadUrl: "",
 	  image: "images/stf.jpg",
+      updated: "2026-08-23"
+    },	
+	{
+      id: "juego-045",
+      name: "ONLY UP!",
+      type: "steam",
+      version: "11651418 (build)",
+      description: "Only Up! es un videojuego indie de plataformas y parkour de 2023 creado por SCKR Games. El juego fue lanzado el 24 de mayo de 2023 a Steam creciendo rápidamente llegando el 14 de junio a los más de 109.000 espectadores en la plataforma de Twitch.",
+      tags: ["aventura", "indie"],
+      downloadUrl: "",
+	  image: "images/ou.jpg",
+      updated: "2026-08-23"
+    },
+	{
+      id: "juego-046",
+      name: "MONSTER TRAIN 2",
+      type: "steam",
+      version: "21751654 (build)",
+      description: "En cuanto al argumento, hay uno, pero probablemente no le prestarás demasiada atención. Básicamente, en lugar de estar ambientado en el infierno y girar en torno a la recuperación del retorcido dominio, ahora ángeles y demonios han unido sus fuerzas para organizar un asalto al cielo, en un intento de recuperar la ciudad celestial de los invasores Titanes.",
+      tags: ["estrategia", "indie"],
+      downloadUrl: "",
+	  image: "images/mt2.jpg",
+      updated: "2026-08-23"
+    },
+	{
+      id: "juego-047",
+      name: "KINDERGARTEN 3",
+      type: "steam",
+      version: "1.01",
+      description: "Kindergarten 3 es un videojuego independiente de aventura y puzles con humor negro, desarrollado por Con Man Games y lanzado para PC. Este título continúa la serie Kindergarten, famosa por su mezcla única de comedia oscura, narrativa retorcida y jugabilidad centrada en la toma de decisiones y resolución de puzles.",
+      tags: ["indie", "aventura"],
+      downloadUrl: "",
+	  image: "images/kg3.jpg",
       updated: "2026-08-23"
     },	  
   ]
